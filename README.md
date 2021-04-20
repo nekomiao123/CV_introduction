@@ -70,3 +70,40 @@ New methods:
 
 ## GAN
 
+![image-20210420194710102](https://cdn.jsdelivr.net/gh/nekomiao123/pic/img/image-20210420194710102.png)
+
+![image-20210420194728738](https://cdn.jsdelivr.net/gh/nekomiao123/pic/img/image-20210420194728738.png)
+
+![image-20210420194757563](https://cdn.jsdelivr.net/gh/nekomiao123/pic/img/image-20210420194757563.png)
+
+![image-20210420194838323](https://cdn.jsdelivr.net/gh/nekomiao123/pic/img/image-20210420194838323.png)
+
+### MMGeneration
+
+![image-20210420195845292](https://cdn.jsdelivr.net/gh/nekomiao123/pic/img/image-20210420195845292.png)
+
+
+
+## 图像修复
+
+![image-20210420195024162](https://cdn.jsdelivr.net/gh/nekomiao123/pic/img/image-20210420195024162.png)
+
+## 超分辨率
+
+![image-20210420195246102](https://cdn.jsdelivr.net/gh/nekomiao123/pic/img/image-20210420195246102.png)
+
+## 抠图Matting
+
+![image-20210420195413941](https://cdn.jsdelivr.net/gh/nekomiao123/pic/img/image-20210420195413941.png)
+
+## MMEditing
+
+![image-20210420195445003](https://cdn.jsdelivr.net/gh/nekomiao123/pic/img/image-20210420195445003.png)
+
+
+
+
+
+
+
+![image-20210420195525378](https://cdn.jsdelivr.net/gh/nekomiao123/pic/img/image-20210420195525378.png)
